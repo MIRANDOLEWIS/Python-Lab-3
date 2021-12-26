@@ -1,0 +1,4 @@
+hello friends,
+welcome to mashupstack
+good place to learn  
+a full-stack web developement
