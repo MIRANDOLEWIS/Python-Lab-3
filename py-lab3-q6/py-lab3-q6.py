@@ -1,7 +1,7 @@
-list = ["jerin\n","ajay\n","deepak\n"]
+ans = "hi guys \n welcome to mashupstack"
 
 f = open('ans.txt', 'a')
-f.writelines(list)
+f.writelines(ans)
 f.close()
  
 
